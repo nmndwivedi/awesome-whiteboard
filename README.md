@@ -68,6 +68,7 @@ Run your own server.
 
 - [JSON Canvas](https://jsoncanvas.org) — MIT. An open file format for infinite-canvas data, originating in Obsidian Canvas.
 - [SVG](https://www.w3.org/TR/SVG2/) — the lowest-common-denominator export target; every tool above writes it.
+- [BoardEject](https://github.com/royalpinto007/boardeject) — MIT. Exports Apple Freeform boards to editable Excalidraw files plus verified local archives with original assets; a migration companion rather than a whiteboard itself, macOS-only, all processing local.
 
 ## Reading
 
