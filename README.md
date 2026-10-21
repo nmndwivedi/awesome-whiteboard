@@ -44,6 +44,7 @@ The building blocks — useful when you're writing your own surface.
 - [Excalidraw](https://excalidraw.com) — MIT. Free, no signup, end-to-end-encrypted collaboration, works offline.
 - [tldraw](https://tldraw.com) — the hosted app is free to use.
 - [Quickdraw](https://app.tryquickdraw.com) — MIT. Free, no signup, saves locally.
+- [ClassHelper](https://classhelper.app) — Free web app, no signup, saves locally. Geared specifically for classroom screens and interactive displays with teaching widgets; less suited for complex infinite-canvas node graphs or team project diagrams.
 - [Obsidian Canvas](https://obsidian.md/canvas) — proprietary app; the [`.canvas` file format](https://jsoncanvas.org) it introduced is open (MIT).
 - [Miro](https://miro.com), [FigJam](https://figma.com/figjam), [Microsoft Whiteboard](https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app) — proprietary, team-oriented, free tiers available. Google's Jamboard was discontinued on December 31, 2024.
 
