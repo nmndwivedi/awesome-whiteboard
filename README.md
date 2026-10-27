@@ -46,6 +46,7 @@ The building blocks — useful when you're writing your own surface.
 - [Quickdraw](https://app.tryquickdraw.com) — MIT. Free, no signup, saves locally.
 - [Obsidian Canvas](https://obsidian.md/canvas) — proprietary app; the [`.canvas` file format](https://jsoncanvas.org) it introduced is open (MIT).
 - [Miro](https://miro.com), [FigJam](https://figma.com/figjam), [Microsoft Whiteboard](https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app) — proprietary, team-oriented, free tiers available. Google's Jamboard was discontinued on December 31, 2024.
+- [Paceflow Whiteboard](https://www.paceflow.io/whiteboard) — Free hosted web app. A no-signup collaborative whiteboard for quick sketches and brainstorming.
 
 ## Self-hosted collaborative whiteboards
 
