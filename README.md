@@ -56,6 +56,7 @@ Run your own server.
 - [Whitebird](https://github.com/wbrijesh/whitebird) — open-source web-based collaborative whiteboard.
 - [Drawpile](https://github.com/drawpile/Drawpile) — GPL-3.0. Collaborative *painting* rather than diagramming, with a mature session server.
 - [OpenBoard](https://github.com/OpenBoard-org/OpenBoard) — GPL-3.0. Interactive whiteboard for schools and universities.
+- [Breatic](https://github.com/orime-org/breatic) — Breatic Source-Available License; internal/private deployment permitted under its terms. Collaborative media/reference canvas with shared documents and AI assistance, not a freehand drawing SDK; external storage/model services required.
 
 ## Sync and collaboration
 
