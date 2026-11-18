@@ -45,6 +45,7 @@ The building blocks — useful when you're writing your own surface.
 - [tldraw](https://tldraw.com) — the hosted app is free to use.
 - [Quickdraw](https://app.tryquickdraw.com) — MIT. Free, no signup, saves locally.
 - [Obsidian Canvas](https://obsidian.md/canvas) — proprietary app; the [`.canvas` file format](https://jsoncanvas.org) it introduced is open (MIT).
+- [RoadMax](https://roadmax.dskforge.com/) — proprietary. An offline desktop whiteboard for connecting notes to PDFs, images and spreadsheets. Sharing a board requires exporting its project folder.
 - [Miro](https://miro.com), [FigJam](https://figma.com/figjam), [Microsoft Whiteboard](https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app) — proprietary, team-oriented, free tiers available. Google's Jamboard was discontinued on December 31, 2024.
 
 ## Self-hosted collaborative whiteboards
