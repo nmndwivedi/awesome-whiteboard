@@ -45,6 +45,7 @@ The building blocks — useful when you're writing your own surface.
 - [tldraw](https://tldraw.com) — the hosted app is free to use.
 - [Quickdraw](https://app.tryquickdraw.com) — MIT. Free, no signup, saves locally.
 - [Obsidian Canvas](https://obsidian.md/canvas) — proprietary app; the [`.canvas` file format](https://jsoncanvas.org) it introduced is open (MIT).
+- [mindmap.io](https://mindmap.io) — Proprietary, freemium. A mindmap canvas for capturing and developing ideas, where any node can be an AI chat that carries its branch as context. It is a tree of cards rather than a freehand board: no drawing or free placement, and no real-time multiplayer.
 - [Miro](https://miro.com), [FigJam](https://figma.com/figjam), [Microsoft Whiteboard](https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app) — proprietary, team-oriented, free tiers available. Google's Jamboard was discontinued on December 31, 2024.
 
 ## Self-hosted collaborative whiteboards
